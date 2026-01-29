@@ -8,4 +8,22 @@ u/BallpointScribbleNib has designed several neoscripts, most of which are techni
 
 This repository will host the fonts I produce for their scripts.  
  
- 
+___
+
+### Changelog
+#### Lunaria
+##### v 0.501 Minor bugfix
+* Fixed a few RSBs for some glyphs, mainly i-based glyphs. Seems like a FontLab bug.
+
+##### v 0.500 Full letter set complete
+* All original glyphs from BallpointScribbleNib
+* Mapped to Latin English charset
+* Mapped to NewEng charset (my custom orthography for English)
+* Mapped to Greek
+* I have constructed a few custom variants of the original glyphs (e.g. χ, ψ, γ, ς, ŋ, nj, æ, œ, ꝏ, ȣ)
+* I have also added the tone-marked variants of Greek vowels.
+###### ToDo:
+* symbols & punctuation
+* numbers
+* a few simple diacritics if you want them.
+* KERNING
