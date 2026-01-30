@@ -7,7 +7,16 @@ As part of my ongoing font-development skill honing, I reached out on Reddit in 
 u/BallpointScribbleNib has designed several neoscripts, most of which are technically cyphers for the Latin-English alphabet.  
 
 This repository will host the fonts I produce for their scripts.  
+
+<details>
+ <summary>click to view Lunaria</summary>
+
+### Lunaria
+<img width="1688" height="722" alt="image" src="https://github.com/user-attachments/assets/b8f2f0ff-37e5-4455-81aa-f4042172d3e4" />
+
  
+</details>
+
 ___
 
 ### Changelog
